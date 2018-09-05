@@ -1,3 +1,5 @@
 print ("Hello word!;")
+print ("Hello my dear friend!;")
+print ("Hello word!;")
 print ("Hello everybody!;")
 print ("Hello;")
